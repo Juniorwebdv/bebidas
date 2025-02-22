@@ -1,0 +1,202 @@
+
+
+
+
+
+
+.bg-dark {
+
+color: white;
+background-color: red;
+
+}
+
+nav li{
+
+
+text-decoration: none;
+list-style: none;
+}
+
+nav a {
+font-family: "Sue Ellen Francisco", serif;
+  font-weight: 800;
+  font-style: normal;
+text-decoration: none;
+color: white;
+font-weight: bold;
+
+font-size: 28px;
+letter-spacing: 8px;
+
+}
+
+
+nav a:hover{
+
+color: #fbc14c;
+text-decoration: none;
+transition: 0.6s;
+padding: 7px 6px;
+}
+
+.behind{
+background-color: grey;
+
+
+}
+
+ul li{
+
+margin-left: 6px;
+margin-bottom: 1%;
+
+}
+.fa-beer{
+color: white;
+
+
+}
+
+
+ 
+
+.fa-home{
+
+color: white;
+
+
+}
+
+.logo{
+width: 140px;
+height: 112px;
+background-color:white ;
+margin: 0 auto;
+position: relative;
+background-image: url("../img/logodepo.png");
+background-repeat: no-repeat;
+background-size: 120px;
+background-position: center;
+border-radius: 100px;
+border:solid 2.1px black;
+}
+
+#all{
+
+/* Permalink - use to edit and share this gradient. Link permanente - use para editar e compartilhar este gradiente: https://colorzilla.com/gradient-editor/#f1e767+0,feb645+100;Yellow+3D */
+background: linear-gradient(to bottom,  #f1e767 0%,#feb645 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+
+}
+
+.fa-instagram , .fa-home , .fa-beer{
+/* Permalink - use to edit and share this gradient. Link permanente - use para editar e compartilhar este gradiente: https://colorzilla.com/gradient-editor/#f1e767+0,feb645+100;Yellow+3D */
+background: linear-gradient(to bottom,  #f1e767 0%,#feb645 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+color: black;
+font-size: 24px;
+padding: 7px;
+}
+
+
+.navbarToggleExternalContent{
+
+color: red;
+
+}
+
+.collapse{
+
+background: grey;
+
+
+
+
+}
+.navbar-toggler{
+background-color: ;
+color: grey;
+
+}
+
+.navbar-toggler:hover{
+
+background-color: ;
+opacity: 0.6;
+}
+
+.navbar {
+
+background: #f2f2f2;
+
+
+}
+
+
+
+
+
+
+
+
+
+.inside{
+
+width: 1200px;
+height: auto;
+background-color: ;
+margin: 0 auto;
+padding: 20px;
+max-width: 100%;
+font-family: "Sue Ellen Francisco", serif;
+border-top:   4px  #FBC14C solid;
+margin-top: 6%;
+border-right: 2px  #f2f2f2 solid;
+}
+
+h2{
+
+font-size: 40px;
+
+
+}
+
+
+.bottom{
+font-size: 30px;
+background-color: none;
+
+}
+
+.col-md-4{
+background-color: ;
+box-shadow: 0.2px 0.3px black;
+margin-top: 12px;
+}
+
+
+.col-md-4 img{
+width: 100%;
+height: auto;
+
+
+}
+
+.col-md-4:hover{
+opacity: 0.7;
+cursor: pointer;
+padding: 6px;
+
+}
+
+.main-wrapper{
+background: ;
+
+
+}
+
+.bottom{
+/* Permalink - use to edit and share this gradient. Link permanente - use para editar e compartilhar este gradiente: https://colorzilla.com/gradient-editor/#f1e767+0,feb645+100;Yellow+3D */
+background: linear-gradient(to bottom,  #f1e767 0%,#feb645 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+}
